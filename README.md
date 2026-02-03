@@ -14,8 +14,7 @@
 
 ### 📫 Contact
 - Email: wlals3968@naver.com
-- Velog: [https://velog.io/@xxx](https://velog.io/@jiminnote)
-
+- Velog: https://velog.io/@jiminnote
 
 🔨 Stack<br/>
 
