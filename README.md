@@ -1,21 +1,21 @@
+## 👋 안녕하세요, 데이터 엔지니어 지민입니다
 
+### 🎯 About Me
+- 금융권 2.5년차 데이터 엔지니어
+- 배치 파이프라인 50% 성능 개선 경험
+- 대용량 데이터 품질 관리에 관심
 
-<!--
-**jiminnote/jiminnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 Featured Projects
+| 프로젝트 | 설명 | 기술스택 |
+|----------|------|----------|
+| [Kafka E-Commerce](링크) | 이벤트 드리븐 파이프라인 | Kafka, Python, Docker |
+| [Data Quality Framework](링크) | 데이터 정합성 검증 | SQL, Python |
+| [Airflow Pipeline](링크) | ETL 워크플로우 | Airflow, Docker |
 
-Here are some ideas to get you started:
+### 📫 Contact
+- Email: wlals3968@naver.com
+- Velog: [https://velog.io/@xxx](https://velog.io/@jiminnote)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-📗 Study<br/>
-[velog](https://velog.io/@jiminnote)
 
 🔨 Stack<br/>
 
