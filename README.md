@@ -8,9 +8,9 @@
 ### 🔥 Featured Projects
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
-| [Kafka E-Commerce](링크) | 이벤트 드리븐 파이프라인 | Kafka, Python, Docker |
-| [Data Quality Framework](링크) | 데이터 정합성 검증 | SQL, Python |
-| [Airflow Pipeline](링크) | ETL 워크플로우 | Airflow, Docker |
+| [Kafka E-Commerce](https://github.com/jiminnote/ecommerce-kafka-project) | 이벤트 드리븐 파이프라인 | Kafka, Python, Docker |
+| [Data Quality Framework](https://github.com/jiminnote/data-quality-framework) | 데이터 정합성 검증 | SQL, Python |
+| [Airflow Pipeline](https://github.com/jiminnote/airflow-data-pipeline) | ETL 워크플로우 | Airflow, Docker |
 
 ### 📫 Contact
 - Email: wlals3968@naver.com
