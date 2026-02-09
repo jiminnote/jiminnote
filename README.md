@@ -8,7 +8,7 @@
 ### 🔥 Featured Projects
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
-| [ecommerce-event-pipeline]([https://github.com/jiminnote/ecommerce-kafka-project](https://github.com/jiminnote/ecommerce-event-pipeline)) | 지표 정합성 모니터링 대시보드 | Tableau, Python, Docker, PostgreSQL |
+| [metrics-quality-dashboard](https://github.com/jiminnote/metrics-quality-dashboard) | 지표 정합성 모니터링 대시보드 | Tableau, Python, Docker, PostgreSQL |
 | [Data Quality Framework](https://github.com/jiminnote/data-quality-framework) | 데이터 정합성 검증 | SQL, Python |
 | [Airflow Pipeline](https://github.com/jiminnote/airflow-data-pipeline) | ETL 워크플로우 | Airflow, Docker |
 
